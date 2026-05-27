@@ -1,2 +1,10 @@
 # student-results-tracker
-Is a system of producing results to students from grading system,students perfomance and finalising ready to release.
+A simple python project that tracks student marks,calculates grades and dispkays results.
+##Features
+Add student marks
+calculate average
+Assign grades
+view results
+
+##How to Run
+python main.py
